@@ -24,10 +24,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "extend": "^3.0.0",
+    "extend": "3.0.0",
     "fg-lodash": "0.0.2",
-    "request": "^2.62.x",
-    "when": "~3.7.5"
+    "request": "2.62.x",
+    "when": "3.7.5"
   },
   "devDependencies": {
     "bluebird": "~3.0.5",
